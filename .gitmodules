@@ -1,0 +1,9 @@
+[submodule "vendor/plugins/vizres"]
+	path = vendor/plugins/vizres
+	url = git://github.com/pelargir/vizres.git
+[submodule "vendor/plugins/dataset"]
+	path = vendor/plugins/dataset
+	url = git://github.com/aiwilliams/dataset.git
+[submodule "vendor/extensions/mailer"]
+	path = vendor/extensions/mailer
+	url = git://github.com/radiant/radiant-mailer-extension.git
